@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "laosicli": "^0.1.0",
-    "@hsulaosi-cli/core": "1.0.0"
+    "@hsulaosi-cli/core": "^1.0.0",
+    "laosicli": "^0.1.0"
   }
 }
