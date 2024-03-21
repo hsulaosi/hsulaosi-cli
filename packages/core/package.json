@@ -1,6 +1,6 @@
 {
   "name": "@hsulaosi-cli/core",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "hsulaosi-cli core",
   "author": "xusp <xspstudyemail@163.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@hsulaosi-cli/utils": "^1.1.0",
+    "@hsulaosi-cli/utils": "^1.2.0",
     "laosicli": "^0.1.0"
   },
   "gitHead": "dab3448939d3edf0bd1ed00186212e7e760224a0",
