@@ -1,0 +1,23 @@
+{
+  "name": "@hsulaosi-cli/utils",
+  "version": "1.0.0",
+  "description": "hsulaosi-cli utils",
+  "author": "xusp <xspstudyemail@163.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "laosicli": "^0.1.0",
+    "@hsulaosi-cli/core": "1.0.0"
+  }
+}
